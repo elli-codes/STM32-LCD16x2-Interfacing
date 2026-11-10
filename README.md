@@ -12,4 +12,6 @@ For more information, please visit the official website of GARD academy:
 
 [(https://gard-academy.com/)]
 
+The project was developed using STM32CubeMX for peripheral configuration and IAR Embedded Workbench for writing and compiling the firmware.
+
 🖥️📽️YouTube video link:https://youtube.com/shorts/-R_7QTibMJA?si=fEJmw1JxYtL1Lb1v
